@@ -1,15 +1,24 @@
 # NLPioneers — NLP Team Project
 
-Team 1 NLP project exploring natural language processing methods and applications.
+Team NLP project applying text preprocessing, feature extraction, and natural language processing techniques to analyze unstructured text data and generate insights.
 
 ## Contents
 
-- [`presentation/Team 1 - NLPioneers.pdf`](presentation/Team%201%20-%20NLPioneers.pdf) — project presentation
+### Notebooks
+
+- [`data-cleaning-basic-text-analysis.ipynb`](data-cleaning-basic-text-analysis.ipynb) — data cleaning and basic text analysis
+- [`sentiment-analysis-topic-modeling-by-genre-time.ipynb`](sentiment-analysis-topic-modeling-by-genre-time.ipynb) — sentiment analysis and topic modeling by genre and time segmentation
+
+### Presentation
+
+- [`presentation/Team 1 - NLPioneers.pdf`](presentation/Team%201%20-%20NLPioneers.pdf) — project presentation deck
 
 ## Tech Stack
 
-- Python (code coming soon)
-- Natural Language Processing
+- Python
+- NLP
+- Text analytics
+- Sentiment analysis & topic modeling
 
 ## Author
 
